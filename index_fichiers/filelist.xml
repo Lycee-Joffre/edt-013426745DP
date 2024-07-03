@@ -5,11 +5,7 @@
  <o:File HRef="props010.xml"/>
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="colorschememapping.xml"/>
-<<<<<<< HEAD
  <o:File HRef="image001.gif"/>
-=======
- <o:File HRef="image002.gif"/>
->>>>>>> e4d0d045a721b15d7345a66adb495ab7f16b7da6
  <o:File HRef="header.htm"/>
  <o:File HRef="filelist.xml"/>
 </xml>
