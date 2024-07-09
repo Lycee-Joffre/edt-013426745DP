@@ -1,11 +1,8 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
  <o:MainFile HRef="../index.htm"/>
-<<<<<<< HEAD
  <o:File HRef="preview.wmf"/>
-=======
->>>>>>> fe3d7effbf51f0269d454fdbde317cbc46d55299
- <o:File HRef="item0009.xml"/>
- <o:File HRef="props010.xml"/>
+ <o:File HRef="item0001.xml"/>
+ <o:File HRef="props002.xml"/>
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="colorschememapping.xml"/>
  <o:File HRef="image001.gif"/>
